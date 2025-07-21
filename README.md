@@ -204,7 +204,7 @@ pre-commit install
 超喵谢所有贡喵者和插件开发者为 Ast姬Bot 做出贡喵 ❤️
 
 <a href="https://github.com/AstrBotDevs/AstrBot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AstrBotDevs/AstrBot" />
+  <img src="https://raw.githubusercontent.com/IGCrystal-G/my_first_repo/37c6e5b1858052db3bc927b56eb6164d7c799562/AstrBot.svg" />
 </a>
 
 此外，本喵项目离不开以下开源项喵：
