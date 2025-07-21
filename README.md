@@ -84,7 +84,7 @@ pip install uv
 通过 Git Clone 喵装 Ast姬Bot：
 
 ```bash
-git clone https://github.com/AstrBotDevs/AstrBot && cd AstrBot
+git clone https://github.com/AstrBotDev/AstrBot && cd AstrBot
 uv run main.py
 ```
 
@@ -167,7 +167,7 @@ uvx astrbot init
 Ast姬Bot 使用 `ruff` 来格式喵代码和检查。
 
 ```bash
-git clone https://github.com/Soulter/AstrBot
+git clone https://github.com/AstrBotDev/AstrBot
 pip install pre-commit
 pre-commit install
 ```
