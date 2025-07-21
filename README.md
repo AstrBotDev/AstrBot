@@ -12,8 +12,8 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Soulter/AstrBot?style=for-the-badge\&color=76bad9)](https://github.com/Soulter/AstrBot/releases/latest) <img src="https://img.shields.io/badge/python-3.10+-blue.svg?style=for-the-badge&color=76bad9" alt="py慢"> <a href="https://hub.docker.com/r/soulter/astrbot"><img alt="Docker pull" src="https://img.shields.io/docker/pulls/soulter/astrbot.svg?style=for-the-badge&color=76bad9"/></a> <a  href="https://qm.qq.com/cgi-bin/qm/qr?k=wtbaNx7EioxeaqS9z7RQWVXPIxg2zYr7&jump_from=webapi&authKey=vlqnv/AV2DbJEvGIcxdlNSpfxVy+8vVqijgreRdnVKOaydpc+YSw4MctmEbr0k5"><img alt="66_community" src="https://img.shields.io/badge/66群-775869627-purple?style=for-the-badge&color=76bad9"></a> <a  href="https://t.me/+hAsD2Ebl5as3NmY1"><img alt="Tele猫_community" src="https://img.shields.io/badge/Tele猫-AstrBot-purple?style=for-the-badge&color=76bad9"></a>
 [![wakatime](https://wakatime.com/badge/user/915e5316-99c6-4563-a483-ef186cf000c9/project/018e705a-a1a7-409a-a849-3013485e6c8e.svg?style=for-the-badge\&color=76bad9)](https://wakatime.com/badge/user/915e5316-99c6-4563-a483-ef186cf000c9/project/018e705a-a1a7-409a-a849-3013485e6c8e)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.soulter.top%2Fastrbot%2Fstats\&query=v\&label=7猫消息\&cacheSeconds=3600\&style=for-the-badge\&color=3b618e)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.soulter.top%2Fastrbot%2Fplugin-num\&query=%24.result\&suffix=%E4%B8%AA\&style=for-the-badge\&label=%E6%8F%92%E7%BD%AE%E5%B8%82%E5%9C%BA\&cacheSeconds=3600)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.soulter.top%2Fastrbot%2Fstats&query=v&label=7日消息&cacheSeconds=3600&style=for-the-badge&color=3b618e)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.soulter.top%2Fastrbot%2Fplugin-num&query=%24.result&suffix=%E4%B8%AA&style=for-the-badge&label=插☞市场&cacheSeconds=3600)
 
 <a href="https://github.com/Soulter/AstrBot/blob/master/README_en.md">Eng喵</a> ｜ <a href="https://github.com/Soulter/AstrBot/blob/master/README_ja.md">日语</a> ｜ <a href="https://astrbot.app/">查看喵档</a> ｜ <a href="https://github.com/Soulter/AstrBot/issues">喵喵提交</a>
 
@@ -32,8 +32,6 @@ Ast姬Bot 是一个松耦馍、异不合、支撑多消息窝台步署、具有�
 </details>
 
 2. Ast姬Bot 喵已支持接喵 [MCP](https://modelcontextprotocol.io/) 船服啦！
-
----
 
 ## ✨ 主要喵能
 
@@ -108,8 +106,6 @@ uvx astrbot init
 
 [![Deploy on RainYun](https://rainyun-apps.cn-nb1.rains3.com/materials/deploy-on-rainyun-en.svg)](https://app.rainyun.com/apps/rca/store/5994?ref=NjU1ODg0)
 
----
-
 ## ⚡ 喵息窝台支撑情况
 
 | 窝台                                                              | 支撑性 |
@@ -130,8 +126,6 @@ uvx astrbot init
 | 微笑对话开喵台                                                         | 🚧  |
 | WhatsApp                                                        | 🚧  |
 | 小爱音喵                                                            | 🚧  |
-
----
 
 ## ⚡ 喵供商支撑情况
 
@@ -178,8 +172,6 @@ pip install pre-commit
 pre-commit install
 ```
 
----
-
 ## ✨ 喵 Demo
 
 <details><summary>👉 点开看喵多张 Demo 截图 👈</summary>
@@ -207,8 +199,6 @@ pre-commit install
 
 </details>
 
----
-
 ## ❤️ 特别喵谢
 
 超喵谢所有贡喵者和插件开发者为 Ast姬Bot 做出贡喵 ❤️
@@ -222,8 +212,6 @@ pre-commit install
 * [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - 伟大滴猫猫饭框
 * [wechatpy/wechatpy](https://github.com/wechatpy/wechatpy)
 
----
-
 ## ⭐ 喵 Star History
 
 > \[!TIP]
@@ -236,8 +224,6 @@ pre-commit install
 </div>
 
 ![10k-star-banner-credit-by-kevin](https://github.com/user-attachments/assets/c97fc5fb-20b9-4bc8-9998-c20b930ab097)
-
----
 
 ## 🚫 喵 Disclaimer
 
